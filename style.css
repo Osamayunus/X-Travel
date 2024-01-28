@@ -6,3 +6,7 @@
      border-radius: 10px;
      border-color: rgba(255, 255, 255, 0.349);
  }
+ .text{
+    color: rgba(134, 148, 162, 0.904);
+    font-size: 15px;
+ }
